@@ -5,8 +5,6 @@ Formada em Design de Moda fazendo transição para a área de tecnologia.
 
 Atualmente estou estudando desenvolvimento Front-end e criando projetos para desenvolver minhas habilidades em programação.
 
-<br>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
