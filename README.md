@@ -9,8 +9,8 @@ Atualmente estou estudando desenvolvimento Front-end e criando projetos para des
 
 ---
 
-## 🤖 Linguagens e Tecnologias
-  ### ✨ Conhecimentos atuais
+### 🤖 Linguagens e Tecnologias
+  #### ✨ Conhecimentos atuais
 <br>
 
 <img 
@@ -40,7 +40,7 @@ Atualmente estou estudando desenvolvimento Front-end e criando projetos para des
 
 <br>
 
-  ### 🌱 Em aprendizado
+  #### 🌱 Em aprendizado
 <br>
 <img 
     align="left" 
@@ -52,7 +52,26 @@ Atualmente estou estudando desenvolvimento Front-end e criando projetos para des
 />
 
 <br>
-<br>
 
 ---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api/?username=mariaantoniacb&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=mariaantoniacb&langs_count=4" 
+  />
+
+</p>
 
